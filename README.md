@@ -69,7 +69,7 @@ POST /api/tracks/<id>/calculate-start-time/
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/thowwafi/intalenta-coding-test.git
    ```
 
 2. Create a Python virtual environment:
