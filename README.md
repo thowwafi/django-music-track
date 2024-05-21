@@ -1,4 +1,4 @@
-# Project Documentation
+# Django Music Track
 
 ## Algorithmic Challenge
 
