@@ -69,7 +69,7 @@ POST /api/tracks/<id>/calculate-start-time/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/thowwafi/intalenta-coding-test.git
+   git clone https://github.com/thowwafi/django-music-track.git
    ```
 
 2. Create a Python virtual environment:
