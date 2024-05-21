@@ -110,4 +110,3 @@ POST /api/tracks/<id>/calculate-start-time/
 ## Notes
 
 - Ensure that you have `ffmpeg` or `libav` installed on your system for `pydub` to handle audio processing.
-- Adjust the `<repository-url>` in the clone command to the actual URL of your repository.
